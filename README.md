@@ -4,5 +4,5 @@ Console application to read active connections for all websiteds in IIS
 
 ## Technology
 
-c#
-.NET Core 3.1
+* c#
+* .NET Framework 4.5.2
