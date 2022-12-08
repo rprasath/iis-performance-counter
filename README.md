@@ -1,6 +1,6 @@
 # iis-performance-counter
 
-Console application to read active connections for all websiteds in IIS
+Console application to read active connections for all websites in IIS
 
 ## Technology
 
